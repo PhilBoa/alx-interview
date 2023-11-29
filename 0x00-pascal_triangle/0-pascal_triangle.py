@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """
 A Script that draw a pascal triangle with a number of rows passed to the function
 """
@@ -6,8 +7,7 @@ A Script that draw a pascal triangle with a number of rows passed to the functio
 
 def pascal_triangle(n):
     """
-    Function that recieve number of rows of the triangle and return the
-    triangle elements
+    Function that recieve number of rows of the triangle and return the triangle elements
     """
     if n <= 0:
         return []
