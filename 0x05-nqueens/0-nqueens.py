@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """ This module solves the N-Queens problem.
-The N-Queens problem involves placing N non-attacking queens on an N×N
+The N-Queens problem involves placing N non-attacking queens on an NxN
 chessboard. """
 
 import sys
