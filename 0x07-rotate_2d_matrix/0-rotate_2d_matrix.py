@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+"""
+Script that solves rotate 2d matrix with a number of rows and coumns passed to the function
+"""
+
 
 def rotate_2d_matrix(matrix):
     n = len(matrix)
